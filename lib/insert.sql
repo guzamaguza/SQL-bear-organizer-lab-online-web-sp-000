@@ -10,6 +10,6 @@ INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Grinch"
 
 INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Wendy",2, "Female", "White", "Playful", 1);
 
-INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown",9, "Male", "Brown", "Nice", 1);
+INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown",9, "Male", "Brown", "Nice", 0);
 
-INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES (NULL, 8, "Male", "Black", "Angry", 1);
+INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES (NULL, 8, "Male", "Black", "Angry", 0);
